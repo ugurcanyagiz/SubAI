@@ -1,0 +1,7 @@
+openai
+whisper
+srt
+yt-dlp
+python-dotenv
+ffmpeg-python
+streamlit
